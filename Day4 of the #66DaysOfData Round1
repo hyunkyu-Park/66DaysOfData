@@ -1,0 +1,7 @@
+Day4 of the #66DaysOfData Round1. #
+
+★ I played with the 'Santander Customer Satisfaction Data' from the Kaggle.
+To solve the problem, I used XGBoost and LightGMB algorithms. They represented only a slight difference. However, LightGBM was much faster.
+​
+★Dataset I used​
+'Santander Customer Satisfaction Data'
