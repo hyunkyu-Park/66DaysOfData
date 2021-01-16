@@ -1,0 +1,26 @@
+XGBoost generally exhibits better predictive performance than other machine learning in classification.
+Although it's based on GBM, in the spotlight for solving problems such as slow performance time and lack of overfitting regulations, which are disadvantages of GBM.
+
+​
+
+The strongest strength of LightGBM is only taking less time than XGBoost is.
+Furthermore the predictive performance of XGBoost and LightGBM is not much different.
+The only drawback is that overfitting is easy to occur when it applied to small datasets.
+
+​
+
+★ Boosting - XGBoost(eXtra Gradient Boost)
+
+(Python wrapper XGBoost,  sklearn wrapper XGBoost)
+
+★ Boosting - LightGBM 
+
+(Python wrapper LightGBM,  sklearn wrapper LightGBM)
+
+​
+
+★Dataset I used
+
+breaset cancer prediction
+
+​
