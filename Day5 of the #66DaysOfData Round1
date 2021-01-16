@@ -1,0 +1,16 @@
+Day5 of the #66DaysOfData Round1. #
+
+I analyzed the 'Credit Card Detection Data' from the Kaggle to be intimate the algorithms that I studied so far.
+​
+★ UnderSampling, OverSampling
+★ boost_from_average - parameter of LightGBM
+★ StandardScale by StandardScaler from sklearn
+★ LogScale by numpy
+★ Removing outliers by IQR
+★ SMOTE (oversampling)
+​
+★Dataset I used
+'Credit Card Detection Data'
+​
+★ Algorithms I used
+LogisticRegression, LightGBM
