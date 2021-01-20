@@ -13,12 +13,12 @@ __Day 1__
   Thesedays, I have studied to understand several machine learning algorithms.
   The algorithm I reviewed today is Decision Tree which is intuitive and understandable.
   
-  ★Pros and Cons  
-  ★Parameter of Decision Tree  
-  ★Visualization by Graphviz(Iris data)  
-  ★Overfitting  
-  ★GridSearchCV  
-  ★Practice(Human Activity Recognition from UCI Machine Learning Repository)  
+  ㆍ Pros and Cons  
+  ㆍ Parameter of Decision Tree  
+  ㆍ Visualization by Graphviz(Iris data)  
+  ㆍ Overfitting  
+  ㆍ GridSearchCV  
+  ㆍ Practice(Human Activity Recognition from UCI Machine Learning Repository)  
 
 __Day 2__
 
@@ -27,14 +27,14 @@ __Day 2__
   Moreover, It is a technique to derive more accurate final predictions by generating multiple classifiers and combining their predictions.
   As far as I see the Ensemble is sort of collective intelligence, and it leads the Ensemble to diverse utilization.
   
-  ★ Ensemble Learning - Voting, Bagging, Boosting  
-  ★ Voting - Hard Voting, Soft Voting  
-  ★ Bagging(Boostrap Aggregating) - Random Forest  
-  ★ GridSearchCV  
-  ★ Boosting - AdaBoost(Adaptive boosting)  
-  ★ Boosting - GBM(Gradient Boosting Machine) - GradientBoost  
+  ㆍ Ensemble Learning - Voting, Bagging, Boosting  
+  ㆍ Voting - Hard Voting, Soft Voting  
+  ㆍ Bagging(Boostrap Aggregating) - Random Forest  
+  ㆍ GridSearchCV  
+  ㆍ Boosting - AdaBoost(Adaptive boosting)  
+  ㆍ Boosting - GBM(Gradient Boosting Machine) - GradientBoost  
   
-  ★Datasets I used  
+  ㆍ Datasets I used  
   1. breaset cancer prediction  
   2. Human Activity Recognition  
 
@@ -47,48 +47,48 @@ __Day 3__
   Furthermore the predictive performance of XGBoost and LightGBM is not much different.
   The only drawback is that overfitting is easy to occur when it applied to small datasets.
 
-  ★ Boosting - XGBoost(eXtra Gradient Boost)  
+  ㆍ Boosting - XGBoost(eXtra Gradient Boost)  
   (Python wrapper XGBoost,  sklearn wrapper XGBoost)  
-  ★ Boosting - LightGBM   
+  ㆍ Boosting - LightGBM   
   (Python wrapper LightGBM,  sklearn wrapper LightGBM)  
 
-  ★Dataset I used  
+  ㆍ Dataset I used  
   breaset cancer prediction  
 
 __Day 4__
 
-  ★ I played with the 'Santander Customer Satisfaction Data' from the Kaggle.  
+  ㆍ I played with the 'Santander Customer Satisfaction Data' from the Kaggle.  
   To solve the problem, I used XGBoost and LightGMB algorithms. They represented only a slight difference. However, LightGBM was much faster.  
   
-  ★Dataset I used  
+  ㆍ Dataset I used  
   'Santander Customer Satisfaction Data'  
   
 __Day 5__
 
   I analyzed the 'Credit Card Detection Data' from the Kaggle to be intimate the algorithms that I studied so far.
   
-  ★ UnderSampling, OverSampling  
-  ★ boost_from_average - parameter of LightGBM  
-  ★ StandardScale by StandardScaler from sklearn  
-  ★ LogScale by numpy  
-  ★ Removing outliers by IQR  
-  ★ SMOTE (oversampling)
+  ㆍ UnderSampling, OverSampling  
+  ㆍ boost_from_average - parameter of LightGBM  
+  ㆍ StandardScale by StandardScaler from sklearn  
+  ㆍ LogScale by numpy  
+  ㆍ Removing outliers by IQR  
+  ㆍ SMOTE (oversampling)
   
-  ★Dataset I used  
+  ㆍ Dataset I used  
   'Credit Card Detection Data'  
   
-  ★ Algorithms I used  
+  ㆍ Algorithms I used  
   LogisticRegression, LightGBM  
  
 __Day 6__
 
-  ★ Stacking Ensemble has something in common with Bagging and Boosting in that it combines several individual algorithms to produce predictive results.  
-  ★ Basic Stacking model  
+  ㆍ Stacking Ensemble has something in common with Bagging and Boosting in that it combines several individual algorithms to produce predictive results.  
+  ㆍ Basic Stacking model  
   
 __Day 7__
 
-  ★ Stacking Ensemble based on CV set  
-  ★ CV set-based stacking model uses the predicted result datasets based on cross-validation when creating datasets for the final meta-model to improve overfitting.  
+  ㆍ Stacking Ensemble based on CV set  
+  ㆍ CV set-based stacking model uses the predicted result datasets based on cross-validation when creating datasets for the final meta-model to improve overfitting.  
   
   Step 1 - For each model, you generate data for training/testing for the meta-model based on the resulting values from which the original training/test data is predicted.
   
@@ -99,21 +99,37 @@ __Day 7__
   
 __Day 8__
 
-  ★ Read about Battery thermal management system.  
-  ★ Reviewed the Decision Tree that I studied last week.  
-  ★ Searched past Kaggle competitions to get familiar with classification.  
-  ★ Started the 'Santander Product Recommendation'.  
+  ㆍ Read about Battery thermal management system.  
+  ㆍ Reviewed the Decision Tree that I studied last week.  
+  ㆍ Searched past Kaggle competitions to get familiar with classification.  
+  ㆍ Started the 'Santander Product Recommendation'.  
   
 __Day 9__
 
-  ★ EDA with the 'Santander Product Recommendation' which I started yesterday.  
+  ㆍ EDA with the 'Santander Product Recommendation' which I started yesterday.  
   I read datasets, drew basic statistics. Furthermore, I also tried visualizing a single variable with bar graph.  
   But, its not easy to predict 7 products. I should search datasets more delicately.  
   
-  ★ Reviewed the Ensemble Learning that I studied last week.  
-  ★ Made Voting Classifier out of Logistic Regression and KNN.  
+  ㆍ Reviewed the Ensemble Learning that I studied last week.  
+  ㆍ Made Voting Classifier out of Logistic Regression and KNN.  
   
   
-  ★Dataset I used  
+  ㆍ Dataset I used  
   Wisconsin Breast Cancer Datasets  
   Santander Product Recommendation  
+  
+ __Day 10__
+ 
+   I decided to post the algorithm problems that I solve every day as well from Baekjoon Online Judge (acmicpc.net). Its a Korean-style 'Leetcode'
+
+
+  ㆍI solved 3 algorithm problems from Basic Mathmatics. I don't know why the answer rate of the questions that I find difficult is so high.  
+  But the funny thing is that the questions I thought was easy has low answer rate.  
+  ㆍ Reviewed the Random Forest that I studied last week.  
+  ㆍ I attempted to visualize the data of 'Santander Product Recommendation' but Its not easy as much I expected.  
+  I want to see how much the each product changes depending on the date.
+
+
+  ㆍDataset I used  
+  Human Activity Recognition  
+  Santander Product Recommendation
