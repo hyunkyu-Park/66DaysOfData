@@ -133,3 +133,11 @@ __Day 9__
   ㆍDataset I used  
   Human Activity Recognition  
   Santander Product Recommendation
+
+__Day 11__
+
+  ㆍFollowing yesterday, I tried to solve 3 algorithm questions from basic mathmetics.  
+  Solved 2 problems, but failed to solve last one. Its so annoying. If an error occurs and I correct it and resubmit, another error will occur.  
+  I am gonna try again tomorrow. Give me luck!  
+
+  ㆍ Reviewed the GBM(Gradient Boost Machine) that I studied last week.
