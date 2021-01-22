@@ -123,7 +123,7 @@ __Day 9__
    I decided to post the algorithm problems that I solve every day as well from Baekjoon Online Judge (acmicpc.net). Its a Korean-style 'Leetcode'
 
 
-  ㆍI solved 3 algorithm problems from Basic Mathmatics. I don't know why the answer rate of the questions that I find difficult is so high.  
+  ㆍI solved 3 algorithm problems from Basic Mathematics. I don't know why the answer rate of the questions that I find difficult is so high.  
   But the funny thing is that the questions I thought was easy has low answer rate.  
   ㆍ Reviewed the Random Forest that I studied last week.  
   ㆍ I attempted to visualize the data of 'Santander Product Recommendation' but Its not easy as much I expected.  
@@ -136,7 +136,7 @@ __Day 9__
 
 __Day 11__
 
-  ㆍFollowing yesterday, I tried to solve 3 algorithm questions from basic mathmetics.  
+  ㆍFollowing yesterday, I tried to solve 3 algorithm questions from basic mathematics.  
   Solved 2 problems, but failed to solve last one. Its so annoying. If an error occurs and I correct it and resubmit, another error will occur.  
   I am gonna try again tomorrow. Give me luck!  
 
