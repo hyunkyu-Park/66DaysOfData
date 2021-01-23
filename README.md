@@ -143,6 +143,7 @@ __Day 11__
   ㆍ Reviewed the GBM(Gradient Boost Machine) that I studied last week.
   
 __Day 12__
+
   ㆍ Unfortunately, I failed to solve the algorithm question that I couldn't solve yesterday again...  
   So I decide not to solve that question right now. I jumped to the next question!  
   As a result, I finished two more questions and tried one question. They are last 3 questions of Basic Mathematics 1.  
