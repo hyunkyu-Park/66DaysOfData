@@ -123,7 +123,7 @@ __Day 9__
    I decided to post the algorithm problems that I solve every day as well from Baekjoon Online Judge (acmicpc.net). Its a Korean-style 'Leetcode'
 
 
-  ㆍI solved 3 algorithm problems from Basic Mathematics. I don't know why the answer rate of the questions that I find difficult is so high.  
+  ㆍ I solved 3 algorithm problems from Basic Mathematics. I don't know why the answer rate of the questions that I find difficult is so high.  
   But the funny thing is that the questions I thought was easy has low answer rate.  
   ㆍ Reviewed the Random Forest that I studied last week.  
   ㆍ I attempted to visualize the data of 'Santander Product Recommendation' but Its not easy as much I expected.  
@@ -136,11 +136,21 @@ __Day 9__
 
 __Day 11__
 
-  ㆍFollowing yesterday, I tried to solve 3 algorithm questions from basic mathematics.  
+  ㆍ Following yesterday, I tried to solve 3 algorithm questions from basic mathematics.  
   Solved 2 problems, but failed to solve last one. Its so annoying. If an error occurs and I correct it and resubmit, another error will occur.  
   I am gonna try again tomorrow. Give me luck!  
 
   ㆍ Reviewed the GBM(Gradient Boost Machine) that I studied last week.
+  
+__Day 12__
+  ㆍ Unfortunately, I failed to solve the algorithm question that I couldn't solve yesterday again...  
+  So I decide not to solve that question right now. I jumped to the next question!  
+  As a result, I finished two more questions and tried one question. They are last 3 questions of Basic Mathematics 1.  
+  That means, I am ready to start Basic Mathematics 2!!! WoW~  
+
+  ㆍ Reviewed the XGBoost(eXtra Gradient Boost) that I studied last week.  
+  ㆍ Looked over about the 'Dimension Reduction'. There are several ways to simplify dimensions such as PCA, LDA, SVD, NMF  
+  ㆍ Looked over about the 'Clustering'. From the basic clustering method named 'K-means Algorithm' to the 'Mean Shift', 'GMM', 'DBSCAN', they are all fascinating.
   
 __Day 13__
 
