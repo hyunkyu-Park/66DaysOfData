@@ -166,3 +166,14 @@ __Day 13__
   ㆍ After the theoretical part, we also talked about ai techniques used in start-up companies.  
   It was super interesting and inspired me. I began to think every moment about how can we use Ai in reality.  
   I have a meeting with the professor of the group tomorrow, and I'm looking forward to it badly.
+ 
+__Day 14__
+
+  ㆍ I looked up news and videos about 'weverse' and 'Universe' this morning.  
+  I have come up with my own answers to the emergence of new platforms, the differences between each platform, and the direction of expansion of the business structure.  
+  At the meeting with the professor, I suggested 4 solutions, and I heard that three of them are already being projected by other startups.  
+  To be honest, I felt very despondent.  
+  However, professor told me that your proposals came out in only two days, and It means I have potential insight If it overlaps with a project already in progress.  
+  I was so grateful. I felt so lucky to be a member of his team.
+
+  ㆍ Reviewed the LightGBM that I studied last week.
