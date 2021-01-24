@@ -1,6 +1,9 @@
 # 66DaysOfData
 66DaysOfData Challenge
 ----------------------
+Blog  
+https://blog.naver.com/pbh6020
+----------------------
 
 This is a very simple challenge. There are only two requirements:
 
