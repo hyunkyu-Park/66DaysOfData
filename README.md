@@ -180,3 +180,14 @@ __Day 14__
   I was so grateful. I felt so lucky to be a member of his team.
 
   ㆍ Reviewed the LightGBM that I studied last week.
+
+__Day 15__
+
+  I had a fender-bender today. I was totally exhausted because it was my first car accident.  
+  I literally considered whether to do study or not. However, 66 Days of Data challenge encourage me to study.  
+  I do appreciate to #KenJee. 
+
+  ㆍ Made 2 base line codes with XGBoost and LightGBM of the Santander Customer Satisfaction from the Kaggle  
+  ㆍ I learned 2 important things while making base line codes.  
+      ㆍ If the number of columns is high, there is a possibility of overfitting.  
+      ㆍ Using test datasets as evaluation datasets of XGBoost can cause of increasing the chance of overfitting.
