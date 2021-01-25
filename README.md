@@ -189,5 +189,5 @@ __Day 15__
 
   ㆍ Made 2 base line codes with XGBoost and LightGBM of the Santander Customer Satisfaction from the Kaggle  
   ㆍ I learned 2 important things while making base line codes.  
-      ㆍ If the number of columns is high, there is a possibility of overfitting.  
-      ㆍ Using test datasets as evaluation datasets of XGBoost can cause of increasing the chance of overfitting.
+   >ㆍ If the number of columns is high, there is a possibility of overfitting.  
+   >ㆍ Using test datasets as evaluation datasets of XGBoost can cause of increasing the chance of overfitting.
