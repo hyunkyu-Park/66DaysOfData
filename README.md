@@ -184,7 +184,7 @@ __Day 14__
 __Day 15__
 
   I had a fender-bender today. I was totally exhausted because it was my first car accident.  
-  I literally considered whether to do study or not. However, 66 Days of Data challenge encourage me to study.  
+  I literally considered whether to do study or not. However, 66 Days of Data challenge encouraged me to study.  
   I do appreciate to #KenJee. 
 
   ㆍ Made 2 base line codes with XGBoost and LightGBM of the Santander Customer Satisfaction from the Kaggle  
