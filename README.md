@@ -191,3 +191,12 @@ __Day 15__
   ㆍ I learned 2 important things while making base line codes.  
    >- If the number of columns is high, there is a possibility of overfitting.  
    >- Using test datasets as evaluation datasets of XGBoost can cause of increasing the chance of overfitting.
+
+__Day 16__
+
+  I was trapped in a maze while EDA of 'Santander Product Recommendation' last week.  
+  I decided to approach the problem in different way. So, I drew a whole forest instead of cutting down single tree and started to make Base Line codes first.  
+  It seemed work! Now, I am doing data preprocessing.
+  
+  ㆍSolved one question of Basic Mathematics 2 from Baekjoon Online Judge (acmicpc.net), Korean-style 'Leetcode'.  
+  ㆍSummarize Complexities of Algorithm. Time Complexity and Space Complexity
