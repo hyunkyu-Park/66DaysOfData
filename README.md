@@ -200,3 +200,9 @@ __Day 16__
   
   ㆍSolved one question of Basic Mathematics 2 from Baekjoon Online Judge (acmicpc.net), Korean-style 'Leetcode'.  
   ㆍSummarize Complexities of Algorithm. Time Complexity and Space Complexity
+
+__Day 17__
+  
+  ㆍWhile solving the problem related to prime number algorithms, I studied the Eratosthenes' sieve and uploaded on my github algorithm repository.  
+  ㆍadvanced the base line codes.  
+  ㆍHad a zoom-meeting with team members of 'Marvlus' company and AIQ study group for R&D.
