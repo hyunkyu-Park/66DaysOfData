@@ -206,3 +206,8 @@ __Day 17__
   ㆍWhile solving the problem related to prime number algorithms, I studied the Eratosthenes' sieve and uploaded on my github algorithm repository.  
   ㆍadvanced the base line codes.  
   ㆍHad a zoom-meeting with team members of 'Marvus' company and AIQ(Emotional AI Research Team) for R&D.
+  
+__Day 18__
+
+  ㆍSummarized the contents of the yesterday's meeting. Additional research on emotional recognition.  
+  ㆍSearched and read articlesㆍresearch about  learning analytics.
