@@ -211,3 +211,10 @@ __Day 18__
 
   ㆍSummarized the contents of the yesterday's meeting. Additional research on emotional recognition.  
   ㆍSearched and read articlesㆍresearch about  learning analytics.
+  
+__Day 19__
+
+  ㆍSolved 2 algorithm questions about Goldbach's conjecture and Bertrand's postulate.  
+  Those are so challenging and I could think about the time complexity once again.  
+  ㆍEven though I didn't understand everything, I read the R&D article about Lightweight Deep Learning.  
+  I am going to summarize this article as soon as possible.
