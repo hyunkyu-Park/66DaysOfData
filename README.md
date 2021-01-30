@@ -218,3 +218,11 @@ __Day 19__
   Those are so challenging and I could think about the time complexity once again.  
   ㆍEven though I didn't understand everything, I read the R&D article about Lightweight Deep Learning.  
   I am going to summarize this article as soon as possible.
+ 
+__Day 20__
+
+ㆍI had a study meeting with AIQ members, and we discussed about Bayes rule and Naive Bayes classifier.  
+The concept was not as difficult as I thought it would be. Because we tried to apply the theory with Covid 19 diagnosis, I guess.  
+ After that, one of our member reviewed articles MIT Solan article - emotional AI explained and Financial Times article - How AI is getting an emotionally intelligent robot.  Every topics were so fascinating such as 'Where does computer function?', 'What is emotion AI', 'Concerns'.  
+ We conducted the company review in the third order. Company 'Affectiva' is a software company that builds artificial intelligence that understands human emotions, cognitive states, activities and the objects people use, by analyzing facial and vocal expressions. The company spun out of MIT Media Lab and created the new technology category of Artificial Emotional Intelligence. We scanned how they collect the whole data, discussed Business Scalability in automobile sector, Media field, and Biometric research. It was literally constructive time.  
+Lastly, other member brought new topic for storytelling time. We talks about what would have happend if AI had been applied in Storytelling time. Today's topic was drug discovery through AI in the movie named 'The return'.
