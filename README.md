@@ -226,3 +226,18 @@ The concept was not as difficult as I thought it would be. Because we tried to a
  After that, one of our member reviewed articles MIT Solan article - emotional AI explained and Financial Times article - How AI is getting an emotionally intelligent robot.  Every topics were so fascinating such as 'Where does computer function?', 'What is emotion AI', 'Concerns'.  
  We conducted the company review in the third order. Company 'Affectiva' is a software company that builds artificial intelligence that understands human emotions, cognitive states, activities and the objects people use, by analyzing facial and vocal expressions. The company spun out of MIT Media Lab and created the new technology category of Artificial Emotional Intelligence. We scanned how they collect the whole data, discussed Business Scalability in automobile sector, Media field, and Biometric research. It was literally constructive time.  
 Lastly, other member brought new topic for storytelling time. We talks about what would have happend if AI had been applied in Storytelling time. Today's topic was drug discovery through AI in the movie named 'The return'.
+
+__Day 21__
+
+  ㆍI studied one of optimization methods called 'Hill climbing'. The crucial point of this method is that it does not guarantee that you find the absolute best solution.  
+  Moreover, there is an problem with the hill climbing that we can easily get stucked in a good but not optimal solution(Local optima).  
+  So, the simple hill climbing solution where we only go upwards is often called to be a greedy method which greedily optimizes the short term gain and  
+  refuses to incur some temporary loss even if it would lead to better long-term gain.
+
+  ㆍanother key terminology: Simulated annealing Instead of only allowing changes that improve the solution (go uphill),  
+  some changes that make it worse (go downhill) are also allowed with some probability.  Concept word  'Temperature' is important point in Simulated annealing.  
+  Simulated annealing is quite similar to Greedy search in that the optimization process is moving towards better solution.  
+  However, Simulated annealing accepts both better solutions and worse solutions.
+
+  ㆍIf we change the temperature higher in Simulated annealing, the algorithm takes all new solutions.  
+  On the other hand, low temperature as close as 0 only accepts new solutions when they are better than the current one.
