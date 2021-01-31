@@ -1,0 +1,12 @@
+ㆍI studied one of optimization methods called 'Hill climbing'. The crucial point of this method is that it does not guarantee that you find the absolute best solution.  
+Moreover, there is an problem with the hill climbing that we can easily get stucked in a good but not optimal solution(Local optima).  
+So, the simple hill climbing solution where we only go upwards is often called to be a greedy method which greedily optimizes the short term gain and  
+refuses to incur some temporary loss even if it would lead to better long-term gain.
+
+ㆍanother key terminology: Simulated annealing Instead of only allowing changes that improve the solution (go uphill),  
+some changes that make it worse (go downhill) are also allowed with some probability.  Concept word  'Temperature' is important point in Simulated annealing.  
+Simulated annealing is quite similar to Greedy search in that the optimization process is moving towards better solution.  
+However, Simulated annealing accepts both better solutions and worse solutions.
+
+ㆍIf we change the temperature higher in Simulated annealing, the algorithm takes all new solutions.  
+On the other hand, low temperature as close as 0 only accepts new solutions when they are better than the current one.
