@@ -241,3 +241,14 @@ __Day 21__
 
   ㆍIf we change the temperature higher in Simulated annealing, the algorithm takes all new solutions.  
   On the other hand, low temperature as close as 0 only accepts new solutions when they are better than the current one.
+  
+__Day 22__
+
+  ㆍ Finally, I completed algorithm questions of the 'basic mathematics 2'. Wow!  
+  Especially, the answer rate of the last question is almost 20%, so I bit worried. However, I didn't give up and I made it. I am proud of myself today.  
+  ㆍ The next algorithm problem will be recursive function.
+
+  ㆍ We were supposed to make our AI song my using open API, but Its not easy to make what we want.  
+  So, we changed our plan that AI to read the poem by 'Aleksandr Sergeevich Pushkin'.  
+  ㆍ The poem 'What though life conspire to cheat you' is profound and beautiful. We used 3 open API from 'Voiceful', 'AWS', and 'Naver'.  
+  It was pretty interesting and the funny thing is that reading poem with English by AI was a bit disappointing but with Korean was pretty natural and represented emotions.  
