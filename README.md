@@ -252,3 +252,12 @@ __Day 22__
   So, we changed our plan that AI to read the poem by 'Aleksandr Sergeevich Pushkin'.  
   ㆍ The poem 'What though life conspire to cheat you' is profound and beautiful. We used 3 open API from 'Voiceful', 'AWS', and 'Naver'.  
   It was pretty interesting and the funny thing is that reading poem with English by AI was a bit disappointing but with Korean was pretty natural and represented emotions.  
+
+__Day 23__
+
+  ㆍ I re-opened my jupyter notebook for 'Santander product recommendation competition' of Kaggle.  
+  I just finished data preprocessing last time, so I tried to figure out feature engineering.  
+  ㆍ Created the columns for machine learning model  training. I am going to use 'customer variables', 'variables based on dates', and 'lag-1' variable in baseline codes.  
+  ㆍReplace missing values with -99 when using derived variables.  
+  ㆍ'lag-1' variable is a variable that will be used as the current customer's data whether they held the product a month ago.  
+  Later, I will make several variables such as 'lag-2', 'lag-3' to see if these are effective.
