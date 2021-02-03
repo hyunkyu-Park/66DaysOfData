@@ -261,3 +261,15 @@ __Day 23__
   ㆍReplace missing values with -99 when using derived variables.  
   ㆍ'lag-1' variable is a variable that will be used as the current customer's data whether they held the product a month ago.  
   Later, I will make several variables such as 'lag-2', 'lag-3' to see if these are effective.
+
+__Day 24__
+
+  ㆍI have tried to follow the books that I bought in last Christmas. Fortunately😂, however, I have a lot of things to do such as study, research, meeting etc.  
+  Hence, I could not open the book named 'machine learning perfect guide' ever since I studied classification algorithms.  
+  But today, I reopened  the book and started Regression section.
+  ㆍ The core of machine learning regression is finding Optimal Regression coefficients based on given features and determination value data.  
+  ㆍRegularization refers to applying penalty values to regression coefficient to solve the overfitting problem of general linear regression.  
+  ㆍCreating a optimal regression model means creating the model in which sum of the residuals of the entire data is minimal.  
+  At the same time, it means to find the optimal regression coefficient where the sum of the error values can be minimal.  
+  ㆍUsually, when calculating the sum of errors, you take the absolute value and add it(Mean Absolute Error), or you take the square of the error value and add it(RSS, Residual Sum of Square). In other words, the error^2 = RSS  
+  ㆍFinding regression coefficients with minimum RSS through training is a key point in machine learning-based regression.
