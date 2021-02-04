@@ -1,0 +1,9 @@
+ㆍ I heard that brute-force search algorithm questions are interesting.  
+I can understand a little bit what it means, however, It's so awkward solving algorithm with barely thinking time complexity.  
+ㆍ Also, I studied 'Gradient descent' and 'Stochastic gradient descent'.  
+I know it is very critical concept in machine learning and important in Neural networks which are the basis of Deep learning as well.  
+Hence, I implemented both of them myself. Implementing it myself really helped me understand the concept of Gradient descent.  
+ㆍAs I implement myself, I also realize that the disadvantage of gradient descent.  
+The disadvantage of it is that it takes a very long time to perform because it repeatedly updates the value for minimizing the cost function for all learning data.  
+To improve this issue, Stochastic gradient descent does not calculate the value at which is updated with full input data,  
+but rather uses only some data to calculate the value at which w is updated, ensuring a faster rate than gradient descent.
