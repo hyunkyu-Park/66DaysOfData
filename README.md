@@ -286,3 +286,14 @@ __Day 25__
   ㆍAs I implement myself, I also realize that the disadvantage of gradient descent.  
   The disadvantage of it is that it takes a very long time to perform because it repeatedly updates the value for minimizing the cost function for all learning data.  
   To improve this issue, Stochastic gradient descent does not calculate the value at which is updated with full input data, but rather uses only some data to calculate the value at which w is updated, ensuring a faster rate than gradient descent.
+  
+__Day 26__
+
+  ㆍ I read the Linear Regression part of chapter 3 - Machine Learning from Building AI. The chapter introduces funny phrases from twitter.  
+  When fundraising: it's AI  
+  When recruiting: it's machine learning  
+  When implementing: it's linear regression  
+  In fact, I think this phrases become so popular because there is an element of truth in it.😁  
+  ㆍ They also explains the types of machine learning. Supervised learning, Un-supervised learning, and Reinforcement learning.  
+  The funny thing is that the way introduces these concepts are quite similar everywhere.  
+  If I may exaggerate, I have seen the examples of guessing apartment price and classifying dogs and cats over 3 times. lol
