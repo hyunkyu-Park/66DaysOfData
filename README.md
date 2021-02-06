@@ -297,3 +297,29 @@ __Day 26__
   ㆍ They also explains the types of machine learning. Supervised learning, Un-supervised learning, and Reinforcement learning.  
   The funny thing is that the way introduces these concepts are quite similar everywhere.  
   If I may exaggerate, I have seen the examples of guessing apartment price and classifying dogs and cats over 3 times. lol
+
+__Day 27__
+
+ㆍHad third meeting with AIQ members. We discussed about the basic concept of machine learning, Linear Regression and the nearest neighbor method.  
+ㆍConducted  the company review. Today's company was acryl-Jonathan. Jonathan offers various services and they opened their own AI platform last December.  
+Big data collection and Analysis tool: Jonathan-Datascope  
+Data annotation tool: Jonathan-Marker  
+Deep learning library: Jonathan-Intelligence  
+AI development and operational maintenance tool: Jonathan-Flightbase  
+Chatbot solution and management tool: Bots  
+ㆍIn early days of the start-up, collected data from research institutes and universities were relatively inexpensive, but it was not easy to for start-up to purchase. Morever, the data is not valid for a long time, so they thought a lot about it in this area and eventually collected data in one by one. Currently, distributed data crawling engines are used to collect information including the data that other data robots cannot collect.
+
+SWOT
+
+Strength  
+ㆍ It is used in a variety of areas, including health insuarance, finance, public, IT, education.  
+ㆍ Have all necessary technology and business operations within the framework of AI, such as NLP, Emotion detection, and Data crawling  
+ㆍ Increasing number of R&D assignments by government, not just businesses, every year  
+Weakness  
+ㆍ The platform, Jonathan, was unveiled in the second half of the 20th year, but the MAU has yet to meet expectations.  
+Opportunity  
+ㆍ As the government's startup support policy is activated every year, it is expected to receive a lot of support.  
+ㆍ NLP and Emotion Detection have clear marketability and customer needs as well as clear objectives.  
+ㆍ AI is rapidly gaining market share in education, which used to be an unwavering market  
+Threat  
+It is a great advantage to have and know all the necessary technologies of AI, but as it is now said to be Narrow AI, it is often tried to achieve the highest efficiency with one or two algorithms rather than using various AI algorithms. I don't know if they can survive the competition with these companies.
