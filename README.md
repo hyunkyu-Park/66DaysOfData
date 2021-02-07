@@ -325,3 +325,11 @@ __Day 27__
   It is a great advantage to have and know all the necessary technologies of AI, but as it is now said to be Narrow AI, it is often tried to achieve the highest efficiency with one or two algorithms rather than using various AI algorithms. I don't know if they can survive the competition with these companies.
 
   ㆍWhile storytelling, discussed what are the differences between Face-verification vs Face-recognition and studied the triplet loss function that the great method to train hyper-parameter for Neural network in face-recognition.
+
+__Day 28__
+
+  ㆍProf.Henny of the AIQ aksed me to introduce the Bert in NLP to the members. So I decided to find information of NLP today.  
+  Key points I studied  
+  ㆍ What is Natural Language Processing?  
+  ㆍ Word embedding  
+  ㆍ Markov Chains and RNN in Language Model, LM  
