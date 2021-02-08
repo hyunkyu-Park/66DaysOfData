@@ -333,3 +333,9 @@ __Day 28__
   ㆍ What is Natural Language Processing?  
   ㆍ Word embedding  
   ㆍ Markov Chains and RNN in Language Model, LM  
+
+__Day 29__
+
+  ㆍFollowing yesterday, I tried to understand Attention model, self-attention model, and multi-head self attention model.  
+  These are necessary concepts to understand bert. What is bert, and why does bert has been developed. The more I study NLP, I think there is a lot of potential.  
+  ㆍStarted to make my presentation for NLP, bert and to organize that I am going to speech.
