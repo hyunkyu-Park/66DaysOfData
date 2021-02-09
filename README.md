@@ -340,3 +340,9 @@ __Day 29__
   ㆍFollowing yesterday, I tried to understand Attention model, self-attention model, and multi-head self attention model.  
   These are necessary concepts to understand bert. What is bert, and why does bert has been developed. The more I study NLP, I think there is a lot of potential.  
   ㆍStarted to make my presentation for NLP, bert and to organize that I am going to speech.
+
+__Day 30__
+
+  ㆍI believe I have done the most today since I started blogging. First, I have finished python built-in functions called bisect, collections, and math following yesterday. In addition, studied two-pointer algorithm which means the algorithm that processes two point positions when a list needs to be accessed sequentially.  
+  ㆍ Started to learn SQL and experienced at the 'BigQuery Console'.  
+  ㆍ In my Kaggle project, I separated the data for cross-validation and reviewed my Baseline codes. I think I am ready to start model training.
