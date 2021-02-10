@@ -346,3 +346,8 @@ __Day 30__
   ㆍI believe I have done the most today since I started blogging. First, I have finished python built-in functions called bisect, collections, and math following yesterday. In addition, studied two-pointer algorithm which means the algorithm that processes two point positions when a list needs to be accessed sequentially.  
   ㆍ Started to learn SQL and experienced at the 'BigQuery Console'.  
   ㆍ In my Kaggle project, I separated the data for cross-validation and reviewed my Baseline codes. I think I am ready to start model training.
+  
+__Day 31__
+
+  ㆍI studied other basic algorithms, Calculating interval sums and Permutation-Combination, that useful in coding test. Also, solved several SQL questions, but, unfortunately, I couldn't study new concept of SQL such as 'logical operators', 'LIKE', and 'IN' etc.😂  
+  ㆍIn Kaggle challenge, I chose 'XGBoost' as a model for learning in base codes. In addition, I tried to make cross-validation, however, evaluation way is so unfamiliar. Hence, I barely understand even though I spent more than 2 hours.
