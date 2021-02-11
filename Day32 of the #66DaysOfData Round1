@@ -1,0 +1,4 @@
+ㆍToday, I searched the general processing of Natural Language Processing.  
+Data preprocessing -> Create a word set -> One-Hot Encoding -> Word Embedding -> Learning Model Configuration -> Model training -> Save the model  
+ㆍProcedure of Data preprocessing.  
+Generate Token - > Morpheme Analysis -> tag part of speech -> refine data
