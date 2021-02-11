@@ -351,3 +351,10 @@ __Day 31__
 
   ㆍI studied other basic algorithms, Calculating interval sums and Permutation-Combination, that useful in coding test. Also, solved several SQL questions, but, unfortunately, I couldn't study new concept of SQL such as 'logical operators', 'LIKE', and 'IN' etc.😂  
   ㆍIn Kaggle challenge, I chose 'XGBoost' as a model for learning in base codes. In addition, I tried to make cross-validation, however, evaluation way is so unfamiliar. Hence, I barely understand even though I spent more than 2 hours.
+  
+__Day 32__
+
+  ㆍToday, I searched the general processing of Natural Language Processing.  
+  Data preprocessing -> Create a word set -> One-Hot Encoding -> Word Embedding -> Learning Model Configuration -> Model training -> Save the model  
+  ㆍProcedure of Data preprocessing.  
+  Generate Token - > Morpheme Analysis -> tag part of speech -> refine data  
