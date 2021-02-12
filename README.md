@@ -365,3 +365,6 @@ __Day 33__
   ㆍ Procedure of Creating a word set  
   Indexing the words -> Figure out words frequency -> Word Representation in Text Data  
   ㆍThere are several methods for word representation in text data such as 'One-Hot Vector', 'N-gram', 'Bag of Words', 'Word2Vec', 'LSA', 'Glove'  
+  
+ ![1 1](https://user-images.githubusercontent.com/68415173/107762157-f12d3000-6d6f-11eb-951e-77622480ccd9.png)
+
