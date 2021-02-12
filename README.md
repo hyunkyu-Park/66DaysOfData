@@ -358,3 +358,10 @@ __Day 32__
   Data preprocessing -> Create a word set -> One-Hot Encoding -> Word Embedding -> Learning Model Configuration -> Model training -> Save the model  
   ㆍProcedure of Data preprocessing.  
   Generate Token - > Morpheme Analysis -> tag part of speech -> refine data  
+  
+__Day 33__
+
+  ㆍ Following yesterday, I did a detailed data survey of NLP. There are 4 major steps in Data preprocessing and 3 steps in Creating a word set.  
+  ㆍ Procedure of Creating a word set  
+  Indexing the words -> Figure out words frequency -> Word Representation in Text Data  
+  ㆍThere are several methods for word representation in text data such as 'One-Hot Vector', 'N-gram', 'Bag of Words', 'Word2Vec', 'LSA', 'Glove'  
