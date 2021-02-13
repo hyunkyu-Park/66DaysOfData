@@ -370,6 +370,7 @@ __Day 33__
 
 __Day 34__
 
-ㆍI was confused relationship between one-hot Vector and Word Embedding. Because some people say 'Vectorizing is the word embedding' and others say 'Word embedding is the techniques for compressing words'. and now I know that It is a method to overcome the limitations of simple vectorization.  
-ㆍAfter understanding the concept, I made a powerpoint to explain it to AIQ members.  
+  ㆍI was confused relationship between one-hot Vector and Word Embedding. Because some people say 'Vectorizing is the word embedding' and others say 'Word embedding is the techniques for compressing words'. and now I know that It is a method to overcome the limitations of simple vectorization.  
+  ㆍAfter understanding the concept, I made a powerpoint to explain it to AIQ members.  
 
+![1](https://user-images.githubusercontent.com/68415173/107849005-8f39fc80-6e3b-11eb-8a9f-0d4ea19dfcc8.png)
