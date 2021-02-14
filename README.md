@@ -374,3 +374,11 @@ __Day 34__
   ㆍAfter understanding the concept, I made a powerpoint to explain it to AIQ members.  
 
 ![1](https://user-images.githubusercontent.com/68415173/107849005-8f39fc80-6e3b-11eb-8a9f-0d4ea19dfcc8.png)
+
+__Day 35__
+
+ㆍSearched Definition and Concept of the Word Embedding and found the limits of the Word Embedding as well.  
+ㆍStudied 'RNN' and 'Transformer, which are the foundations of the 'Bert'.  
+ㆍRNN -> RNN + Attention -> Transformer(Attention is all you need).  
+ㆍStarting tomorrow, I will participate in the 'AI tutor R&D using artificial intelligence' with the 'Ministry of Trade, Industry and Energy' as a coordinator of AIQ. Although it is a short time of a week, I will participate so that I can experience many things and have a positive impact.  
+(I would like to thank the professor once again for giving me a good opportunity)  
