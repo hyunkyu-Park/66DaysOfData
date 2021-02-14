@@ -382,3 +382,6 @@ __Day 35__
 ㆍRNN -> RNN + Attention -> Transformer(Attention is all you need).  
 ㆍStarting tomorrow, I will participate in the 'AI tutor R&D using artificial intelligence' with the 'Ministry of Trade, Industry and Energy' as a coordinator of AIQ. Although it is a short time of a week, I will participate so that I can experience many things and have a positive impact.  
 (I would like to thank the professor once again for giving me a good opportunity)  
+
+![임명장](https://user-images.githubusercontent.com/68415173/107876388-16a17180-6f09-11eb-94c7-0f4e3f6d8619.png)
+
