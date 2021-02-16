@@ -389,3 +389,9 @@ __Day 36__
 
   ㆍ Along with the Marvrus, we outlined the RFP development of ai tutoring system for the task support of teaching instructors in a non-face-to-face learning environment organized by the Ministry of Commerce, Industry and Energy. It is not possible to describe the details, but it is interesting that data can be handled from a numerical improvement and a business perspective.
 
+__Day 37__
+
+  ㆍDraw the outline of Application of R&D performance and expected effects.  
+  ㆍOutlined 'Expanded the R&A to Areas and measures to utilize key technology performance'.  
+  ㆍCreate the DataBase ERD.
+
