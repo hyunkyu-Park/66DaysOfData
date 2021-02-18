@@ -400,3 +400,12 @@ __Day 38__
    I couldn't post yesterday because I was too busy.  
    ㆍI investigated the evaluation criteria and datasets in various fields of deep learning.  
    I looked into it hard, but I was a little sad that the agenda was revised at the meeting late at night.
+
+__Day 39__
+
+
+  Today, there were two big things: Samsung mentoring and natural language processing announcement.  
+  ㆍI met the two Samsung experts(They were called 'expert Ma', 'expert Cha'). One is a programmer and the other is data analyst.  
+  They gave insperation and shared their life lessons to the participated mentees. I feel glad having such a meaningful time with good people.  
+  ㆍAs a matter of fact, I was not worried about my presentation that much. However, It was harder that I thought it would be. I usually keep observing people's facial expressions and change the style of presentation continuously. However, doing a presentation on zoom was not as simple as general presentation. I should practice presentation assuming that I can't get feedback.
+
