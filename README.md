@@ -395,3 +395,8 @@ __Day 37__
   ㆍOutlined 'Expanded the R&A to Areas and measures to utilize key technology performance'.  
   ㆍCreate the DataBase ERD.
 
+__Day 38__
+
+   I couldn't post yesterday because I was too busy.  
+   ㆍI investigated the evaluation criteria and datasets in various fields of deep learning.  
+   I looked into it hard, but I was a little sad that the agenda was revised at the meeting late at night.
