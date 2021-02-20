@@ -416,3 +416,6 @@ __Day 40__
 
 __Day 41__
 
+  ㆍHad meeting with AIQ members and invited CEO 'Kim Joseph'. We shared the idea of 'Working with text' and 'overfitting'. It was very informative to talk more about cross-validation.  
+  ㆍRight after theoretical themes, we also shared companies research as always. Today's topic was related to Health system and crowd funding. In addition, our invited guest is CEO of Health system company, so he taught us examples of ai applications in healthcare.  
+  ㆍThe rfp submission date is almost near, so I finished it with my team members and had a meeting with the the Marvrus whole day.
