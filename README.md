@@ -413,3 +413,6 @@ __Day 40__
 
   ㆍAlong with the Marvrus, I filled Quantitative Target Items of the RFP development of AI tutoring system for the task support of teaching instructors in a non-face-to-face learning environment organized by the Ministry of Commerce, Industry and Energy.  Among other several sources in the world, Traffic lights at Pearl Dew University in the U.S. were the most helpful.  
   ㆍI have been participating with two 'AIQ' members. They are really hardworking and helpful, but I felt that it was really difficult to play the role of a middle bridge with the company this time.
+
+__Day 41__
+
