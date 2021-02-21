@@ -423,14 +423,12 @@ __Day 41__
 
 __Day 42__
 
-ㆍDevelop learning curation models based on emotion recognition and classification.  
-ㆍChose Felder-Silverman's model.  
-
-
-ㆍClassification algorithm for Felder-silverman's model - SVM  
-ㆍAnalyzing individual learning types based on 'Learning style analysis' and 'Knowledge Mastery Analysis'.  
-ㆍDevelop learning type inference and prediction techniques.  
-
-
-ㆍDiscussed Strategies for Optimizing Learning Models.  
-ㆍDiscussed Strategies for Advanced Learning Models.
+  ㆍDevelop learning curation models based on emotion recognition and classification.  
+  ㆍChose Felder-Silverman's model.  
+  ![image](https://user-images.githubusercontent.com/68415173/108628350-c775b680-749d-11eb-9d44-fda953e2167a.png)
+  ㆍClassification algorithm for Felder-silverman's model - SVM  
+  ㆍAnalyzing individual learning types based on 'Learning style analysis' and 'Knowledge Mastery Analysis'.  
+  ㆍDevelop learning type inference and prediction techniques.  
+  ![image](https://user-images.githubusercontent.com/68415173/108628355-cc3a6a80-749d-11eb-934c-1f8cdcdbd73a.png)
+  ㆍDiscussed Strategies for Optimizing Learning Models.  
+  ㆍDiscussed Strategies for Advanced Learning Models.
