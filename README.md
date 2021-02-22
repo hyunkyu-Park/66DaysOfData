@@ -432,3 +432,7 @@ __Day 42__
   ![image](https://user-images.githubusercontent.com/68415173/108628355-cc3a6a80-749d-11eb-934c-1f8cdcdbd73a.png)
   ㆍDiscussed Strategies for Optimizing Learning Models.  
   ㆍDiscussed Strategies for Advanced Learning Models.
+
+__Day 43__
+
+  Today was the last day I was dispatched to the Marvrus and worked as a research staff. It was a short time, but it was a memorable time, and I learned lots of things that I couldn't express enough. I learned many things such as the importance of team members, communication between company and team, and felt my lack of skills. I could see and experience things I didn't feel when I was studying alone, so I could get a lot of enlightenment. Moreover, It will help my growth, not just a passing memory.
