@@ -436,3 +436,11 @@ __Day 42__
 __Day 43__
 
   Today was the last day I was dispatched to the Marvrus and worked as a research staff. It was a short time, but it was a memorable time, and I learned lots of things that I couldn't express enough. I learned many things such as the importance of team members, communication between company and team, and felt my lack of skills. I could see and experience things I didn't feel when I was studying alone, so I could get a lot of enlightenment. Moreover, It will help my growth, not just a passing memory.
+
+__Day 44__
+
+  ㆍ I started studying because I thought I should strengthen my Python basic skills  
+  ㆍ Luckily, I got a paid lecture as a gift and started studying based on the lecture materials and books.ㆍ Studied python's strengths, basic functions, and setting virtual environment  
+  ㆍ Data type - numeric and operator  
+  ㆍ Data type - string, list, tuple, dictionary, set  
+  ㆍ Conditional sentence, repetitive statement
