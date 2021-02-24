@@ -444,3 +444,10 @@ __Day 44__
   ㆍ Data type - numeric and operator  
   ㆍ Data type - string, list, tuple, dictionary, set  
   ㆍ Conditional sentence, repetitive statement
+
+__Day 45__
+
+  ㆍ I started to prepare my presentation about the 'Platform business'. Among them, I am preparing 'Weverse' of BigHit Entertainment and 'Universe' of NC Soft.  
+  ㆍ I studied Python basics following yesterday.  
+  ㆍ functions, lambda, Self, class, instance variable, inheritance, multi-inheritance  
+  ㆍ Module, package in python
