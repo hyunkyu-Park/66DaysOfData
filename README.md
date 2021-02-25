@@ -451,3 +451,13 @@ __Day 45__
   ㆍ I studied Python basics following yesterday.  
   ㆍ functions, lambda, Self, class, instance variable, inheritance, multi-inheritance  
   ㆍ Module, package in python
+
+__Day 46__
+
+  ㆍ Searched how they are using AI in their platform ecosystem('Weverse', 'Universe)
+  ㆍ Weverse of BigHit - Detect anti-fans, Translation in 10 languages
+  ㆍ Universe of NC soft - AI voice of their Artists, Chatbot as like as chatting with your favorite celebrity
+  ㆍ Studied python basics. File - File read, File write
+  ㆍ Error and exceptions(including 'else', 'finally')
+  ㆍ Read and Write Excel-CSV
+  ㆍ DB - SQLite, CREATE TABLE, INSERT, SELECT, WHERE, UPDATE, DELETE
