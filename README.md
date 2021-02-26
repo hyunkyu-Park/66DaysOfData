@@ -461,3 +461,9 @@ __Day 46__
   ㆍ Error and exceptions(including 'else', 'finally')
   ㆍ Read and Write Excel-CSV
   ㆍ DB - SQLite, CREATE TABLE, INSERT, SELECT, WHERE, UPDATE, DELETE
+  
+__Day 47__
+
+  ㆍ I just finished making powerpoint of 'Platform Business, Weverse-Universe' and finally get ready to presentation tomorrow's AIQ meeting. I hope everyone would find it interesting.  
+  ㆍ Made simple typing game with python basic skills that I have studied all week.  
+  ㆍ Studied Object Reference.
