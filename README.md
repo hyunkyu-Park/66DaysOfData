@@ -467,3 +467,10 @@ __Day 47__
   ㆍ I just finished making powerpoint of 'Platform Business, Weverse-Universe' and finally get ready to presentation tomorrow's AIQ meeting. I hope everyone would find it interesting.  
   ㆍ Made simple typing game with python basic skills that I have studied all week.  
   ㆍ Studied Object Reference.
+  
+__Day 48__
+
+  ㆍ I thought I was going to die for three days. I got food poisoning for the first time in my life...  
+  I only knew that food poisoning was similar to enteritis, but it was literally like..hell.  
+  But now I'm much better, so I can start studying again. It's a shame that I fell for a short time with 66 days left, but I think it's a good thing that gave me a warning when I was running with careless my health.  
+  ㆍ Studied Array and python List
