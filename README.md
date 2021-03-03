@@ -474,3 +474,8 @@ __Day 48__
   I only knew that food poisoning was similar to enteritis, but it was literally like..hell.  
   But now I'm much better, so I can start studying again. It's a shame that I fell for a short time with 66 days left, but I think it's a good thing that gave me a warning when I was running with careless my health.  
   ㆍ Studied Array and python List
+
+__Day 49__
+
+  ㆍ Studied Data Structure - 'Stack' and 'Queue'  
+  ㆍI gained opportunities for ai storytelling education, which was conducted as a pilot project by the government. It will be held for elementary, middle and high school students. I am in charge of solving problems encountered in interesting stories through AI thinking. We had a project-related meeting, and it looked very interesting.
