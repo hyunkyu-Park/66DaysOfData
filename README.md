@@ -479,3 +479,9 @@ __Day 49__
 
   ㆍ Studied Data Structure - 'Stack' and 'Queue'  
   ㆍI gained opportunities for ai storytelling education, which was conducted as a pilot project by the government. It will be held for elementary, middle and high school students. I am in charge of solving problems encountered in interesting stories through AI thinking. We had a project-related meeting, and it looked very interesting.
+
+__Day 50__
+
+  ㆍStudied General Likned List and Doubly Linked List. Listening to lectures online is so very boring.  
+  ㆍReviewed Time complexity and space complexity.  
+  ㆍMade two AI storytelling presentation file for the certification. One is about animation named 'burrow', and the other one is based on a video of Disney princesses.
