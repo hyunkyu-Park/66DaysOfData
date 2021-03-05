@@ -485,3 +485,9 @@ __Day 50__
   ㆍStudied General Likned List and Doubly Linked List. Listening to lectures online is so very boring.  
   ㆍReviewed Time complexity and space complexity.  
   ㆍMade two AI storytelling presentation file for the certification. One is about animation named 'burrow', and the other one is based on a video of Disney princesses.
+
+__Day 51__
+
+  ㆍ modified and submitted the presentations that I made yesterday for the certification.  
+  ㆍ Studied Linear regression at Building AI. I know it's been a so while. I am going to catch up with other AIQ members.  
+  ㆍ Studied the 'Hashing' which is crucial data structure in computer science and solved some algorithm questions from leetcode and Baekjoon.
