@@ -491,3 +491,8 @@ __Day 51__
   ㆍ modified and submitted the presentations that I made yesterday for the certification.  
   ㆍ Studied Linear regression at Building AI. I know it's been a so while. I am going to catch up with other AIQ members.  
   ㆍ Studied the 'Hashing' which is crucial data structure in computer science and solved some algorithm questions from leetcode and Baekjoon.
+
+__Day 52__
+
+  ㆍI took a certificate test for AI Storytelling. It was harder than I thought it would be. However, the presentation that one of the AIQ members presented today was very helpful 😁
+  ㆍFinally finished 'Building AI - created by University of Helsinki. I should do a general review when I have time.
