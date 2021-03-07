@@ -496,3 +496,7 @@ __Day 52__
 
   ㆍI took a certificate test for AI Storytelling. It was harder than I thought it would be. However, the presentation that one of the AIQ members presented today was very helpful 😁
   ㆍFinally finished 'Building AI - created by University of Helsinki. I should do a general review when I have time.
+
+__Day 53__
+
+  ㆍIt is nearing the end of the data structure. However, the 'Tree' data structure that I have faced today is literally difficult. The concept is simple and I could understand, but It was different to actually implement it. Especially, making delete function of binary search tree was not as easy as I thought it would be. Although I didn't implement it all today, I will finish it tomorrow.
