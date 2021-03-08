@@ -500,3 +500,7 @@ __Day 52__
 __Day 53__
 
   ㆍIt is nearing the end of the data structure. However, the 'Tree' data structure that I have faced today is literally difficult. The concept is simple and I could understand, but It was different to actually implement it. Especially, making delete function of binary search tree was not as easy as I thought it would be. Although I didn't implement it all today, I will finish it tomorrow.
+
+__Day 54__
+
+  ㆍSaw all the lectures about Tree, binary tree, and binary search tree. and I realized that I should sketch every cases when I do something complicated in computer science. If I just start without plan, its not easy to reveal the issue when it occurs. To implement the binary search tree, I made 'insert', 'search', and 'delete' functions which are the main factors in data structure. In delete function, it has various type of cases so that I drew all cases that could occur before I start coding.
