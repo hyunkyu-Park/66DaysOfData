@@ -1,0 +1,5 @@
+ㆍSaw all the lectures about Tree, binary tree, and binary search tree.  
+and I realized that I should sketch every cases when I do something complicated in computer science.  
+If I just start without plan, its not easy to reveal the issue when it occurs.  
+To implement the binary search tree, I made 'insert', 'search', and 'delete' functions which are the main factors in data structure.  
+In delete function, it has various type of cases so that I drew all cases that could occur before I start coding.
