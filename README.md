@@ -504,3 +504,8 @@ __Day 53__
 __Day 54__
 
   ㆍSaw all the lectures about Tree, binary tree, and binary search tree. and I realized that I should sketch every cases when I do something complicated in computer science. If I just start without plan, its not easy to reveal the issue when it occurs. To implement the binary search tree, I made 'insert', 'search', and 'delete' functions which are the main factors in data structure. In delete function, it has various type of cases so that I drew all cases that could occur before I start coding.
+
+__Day 55__
+
+  ㆍ2AI(AAI) Storytelling Education was officially commissioned by the Office of Education. It would be supposed to progress in online, but schools asked for the first class to be conducted offline. So we had quick meeting to schedule classes. I might be in charge of Tuesday, Wednesday, and Thursday classes. Since it's my first public education, I should pay more attention to the class.  
+  ㆍStudied the data structure named 'Heap'. It was my last lecture in data structure. Heap is a bit complicating based on Tree data structure, it contains a number of different cases. I am planning to review the entire data structure tomorrow. I am so proud that I studied the data structure hard for 3 weeks. I'm sure it will be a great help in my future.
