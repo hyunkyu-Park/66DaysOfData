@@ -509,3 +509,7 @@ __Day 55__
 
   ㆍ2AI(AAI) Storytelling Education was officially commissioned by the Office of Education. It would be supposed to progress in online, but schools asked for the first class to be conducted offline. So we had quick meeting to schedule classes. I might be in charge of Tuesday, Wednesday, and Thursday classes. Since it's my first public education, I should pay more attention to the class.  
   ㆍStudied the data structure named 'Heap'. It was my last lecture in data structure. Heap is a bit complicating based on Tree data structure, it contains a number of different cases. I am planning to review the entire data structure tomorrow. I am so proud that I studied the data structure hard for 3 weeks. I'm sure it will be a great help in my future.
+
+__Day 56__
+
+  ㆍ Reviewed the whole things that I have studied almost 3 weeks. Most of them were remembered, but as I reviewed them, I could find parts that needed more study such as copy-deep copy, lambda function. On the other hand, I feel good because I think the data structures are well remembered because I implemented them myself.
