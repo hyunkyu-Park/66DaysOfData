@@ -518,3 +518,8 @@ __Day 57__
 
   ㆍHad a meeting to prepare for the AI storytelling class next week. They will be online and offline classes alternately, so I spent a lot of time discussing ways to fit each other.  
   ㆍ Studied 'The nearest neighbor method' at Building AI - 'How the nearest neighbor method is used for both regression and classification tasks'.
+  
+__Day 58__
+
+ㆍ Studied basics of Natural language processing which is giving text a representation that computers can work with at the 'AI Building' - Working with text.  
+It started with the 'Bag of the words' and the technique called by the cumbersome name Term Frequency Inverse Document Frequency (tf-idf).
