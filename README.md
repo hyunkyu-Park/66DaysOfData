@@ -513,3 +513,8 @@ __Day 55__
 __Day 56__
 
   ㆍ Reviewed the whole things that I have studied almost 3 weeks. Most of them were remembered, but as I reviewed them, I could find parts that needed more study such as copy-deep copy, lambda function. On the other hand, I feel good because I think the data structures are well remembered because I implemented them myself.
+
+__Day 57__
+
+  ㆍHad a meeting to prepare for the AI storytelling class next week. They will be online and offline classes alternately, so I spent a lot of time discussing ways to fit each other.  
+  ㆍ Studied 'The nearest neighbor method' at Building AI - 'How the nearest neighbor method is used for both regression and classification tasks'.
