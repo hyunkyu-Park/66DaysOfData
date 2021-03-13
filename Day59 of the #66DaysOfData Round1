@@ -1,0 +1,8 @@
+ㆍ I studied overfitting as the last part of building AI's machine learning.  
+Simply put, overfitting indicates being too confident in predictions that worked in the training Data.  
+Then, how can we prevent overfitting? First of all, overfitting occurs even when the amount of data is small because our model might get used to the noise of data and pattern.  
+To address this, data augmentation techniques can be utilized to intentionally increase the amount of data.  
+For example in image, it is a method of rotating, noisy, or cutting some of the images. Moreover, Cross-validation can also be exploited.  
+ Another way of preventing overfitting is to reduce the complexity of the model. The complexity of designing a model does not necessarily increase performance.  
+ Rather, it can be adjusted for specific data, resulting in overfitting. Therefore, lowering the complexity of the model can also be used as a countermeasure to overfitting.  
+ㆍI will study more about 'regularization' and 'drop out method' tomorrow.
