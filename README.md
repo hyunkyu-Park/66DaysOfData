@@ -538,3 +538,8 @@ __Day 60__
 __Day 61__
 
   ㆍ Tomorrow, there is an interview where I can get a good education. Out of the 4,200 applicants, 45 were left through document screening, the first, and second tests and passed. Finally, 15 people who pass the interview will be selected to provide quality programming education for six months. To this end, I prepared interviews related to interviews and technical interviews and organized what I have been studying. I hope I don't get nervous and have an interview with no regrets tomorrow.
+
+__Day 62__
+
+  ㆍ The interview scheduled for today was abruptly postponed by interviewer's personal affairs. Although I was exhausted due to the sudden cancellation, I quickly settled down and prepared for the class that I was going to do tomorrow. Since my first class is for elementary school students, I prepared classes focusing on creating interest in AI. I plan to show examples such as Jarvis of the movie Iron Man, and deep fake technology, which has been melting into our daily lives recently. I hope both children and the homeroom teacher would have a fun class.
+  ![image](https://user-images.githubusercontent.com/68415173/111320425-4aa7b800-86aa-11eb-8d68-ac209aba88d4.png)
