@@ -543,3 +543,10 @@ __Day 62__
 
   ㆍ The interview scheduled for today was abruptly postponed by interviewer's personal affairs. Although I was exhausted due to the sudden cancellation, I quickly settled down and prepared for the class that I was going to do tomorrow. Since my first class is for elementary school students, I prepared classes focusing on creating interest in AI. I plan to show examples such as Jarvis of the movie Iron Man, and deep fake technology, which has been melting into our daily lives recently. I hope both children and the homeroom teacher would have a fun class.
   ![image](https://user-images.githubusercontent.com/68415173/111320425-4aa7b800-86aa-11eb-8d68-ac209aba88d4.png)
+
+__Day 63__
+
+  ㆍI think my day started with preparing for the interview and ended with the interview. I thought I was doing well when I was conducting the interview, but when I finished it, I keep thinking about what I was said about. I don't know when the results of the interview will come out, but I'll have to recall what I learned from the interview I saw today.   
+  1. Don't drink too much water during the interview  
+  2. Think about a disagreement with my boss.  
+  3. Considering about how to act when a project fails.
