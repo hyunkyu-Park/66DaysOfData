@@ -550,3 +550,8 @@ __Day 63__
   1. Don't drink too much water during the interview  
   2. Think about a disagreement with my boss.  
   3. Considering about how to act when a project fails.
+
+__Day 64__
+
+  ㆍThe interview results came out right away. Unfortunately, I faced the result of being eliminated, but I would like to think it was a good opportunity to fill in the parts that would have been difficult to study if I studied alone.  
+  ㆍI had my first class at an elementary school in Jincheon, Chungbuk. I had two classes, and the children were more interested in artificial intelligence than I thought, so I was able to have fun. From next week, we are going to have many classes in earnest. I should think about what kind of study or project I should do in my spare time except for class preparation.
