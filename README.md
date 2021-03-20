@@ -560,3 +560,8 @@ __Day 65__
 
 ㆍ Studied SQL's  ORDER BY method DECS, and LIMIT method.  
 ㆍ Solved SQL questions from 'Programmers' where offers several algorithm questions using methods that I have learned today. 
+
+__Day 66__
+
+  ㆍ Today is the last day of the 66DAYSOFDATA challenge. At first, I posted what I studied every day as I intended, but later, it seems to have gradually changed to a diary format. Still, I am proud of myself for running for 66 days except when I have food poisoning. I was able to learn a lot from this challenge and I am very satisfied to make good habits. I will take a day off tomorrow ready for new achievement and start a new challenge from the next day.  
+  ㆍ Studied MIN, MAX, COUNT, DISTINCT, GROUP BY, ORDER BY methods of SQL and solved 5 related algorithm questions from 'Programmers' as yesterday
